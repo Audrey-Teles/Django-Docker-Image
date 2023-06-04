@@ -1,1 +1,1 @@
-# Docker Image for projects with Django and Mysql
+# Docker Image for projects with Django and MySQL
