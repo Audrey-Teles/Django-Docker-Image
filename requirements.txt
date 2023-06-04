@@ -1,5 +1,4 @@
 # Basic requirements for your app
-
 asgiref==3.6.0
 Django==4.2
 mysqlclient==2.1.1
